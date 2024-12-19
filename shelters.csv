@@ -1,0 +1,25 @@
+Name,Latitude,Longitude,Type
+UCF Campus Shelter 1,28.6014,-81.2001,University Building
+UCF Campus Shelter 2,28.6040,-81.2005,Dormitory
+UCF Campus Shelter 3,28.5991,-81.1975,Library
+UCF Campus Shelter 4,28.6038,-81.2002,Recreation Center
+
+Orlando Community Center,28.5384,-81.3792,Community Center
+Orlando High School,28.5382,-81.3777,School
+Orlando City Hall,28.5421,-81.3791,Government Building
+Orlando Fire Station,28.5450,-81.3800,Fire Station
+
+Miami Hospital,25.7617,-80.1918,Hospital
+Miami Fire Station,25.7751,-80.2105,Fire Station
+Miami Community Center,25.7656,-80.1921,Community Center
+Miami High School,25.7595,-80.1981,School
+
+Tampa Convention Center,27.9423,-82.4541,Convention Center
+Tampa Elementary School,27.9506,-82.4572,School
+Tampa Community Shelter,27.9480,-82.4578,Community Center
+Tampa Hospital,27.9438,-82.4508,Hospital
+
+Jacksonville Civic Center,30.3322,-81.6557,Civic Center
+Jacksonville Medical Center,30.3369,-81.6616,Hospital
+Jacksonville Fire Station,30.3338,-81.6608,Fire Station
+Jacksonville High School,30.3345,-81.6559,School
